@@ -1,1 +1,1 @@
-include ':app', ':viewexam'
+include ':app', ':viewexam', ':for_activity'
