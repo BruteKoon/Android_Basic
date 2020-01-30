@@ -7,38 +7,26 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:hint="비밀번호를 입력하세요">
+    </EditText>
+
+    <RatingBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:stepSize="1">
+
+    </RatingBar>
+
     <Button
+        android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:onClick="onButtonClicked"
-        android:text="버튼">
+        android:text="토스트">
+
     </Button>
-
-    <TextView
-        android:id="@+id/hello_txt"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="#ff0000"
-        android:padding="20dp"
-        android:layout_margin="20dp"
-        android:visibility="visible"
-        android:onClick="onVisibleClicked"
-        android:textColor="#00ff00"
-        android:textStyle="bold|italic"
-        android:text="Visible">
-    </TextView>
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="#00ff00"
-        android:lines="1"
-        android:ellipsize="end"
-        android:textSize="40sp"
-        android:onClick="onNoVisibleClicked"
-        android:text="NoVisible It's to Long ~~~~">
-    </TextView>
-
-
 
 </LinearLayout>
