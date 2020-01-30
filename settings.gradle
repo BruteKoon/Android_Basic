@@ -1,1 +1,1 @@
-include ':app', ':viewexam', ':for_activity'
+include ':app', ':viewexam', ':for_activity', ':implicitintentexam'
