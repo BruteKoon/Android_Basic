@@ -1,1 +1,1 @@
-include ':app', ':viewexam', ':for_activity', ':implicitintentexam', ':upnavigationexam', ':menuexam', ':webviewexam'
+include ':app', ':viewexam', ':for_activity', ':implicitintentexam', ':upnavigationexam', ':menuexam', ':webviewexam', ':loginexam'
