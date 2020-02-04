@@ -6,8 +6,8 @@ android {
 
 
     defaultConfig {
-        applicationId "com.example.cursoradapterexam"
-        minSdkVersion 22
+        applicationId "com.example.threadexam"
+        minSdkVersion 23
         targetSdkVersion 29
         versionCode 1
         versionName "1.0"
