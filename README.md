@@ -13,4 +13,40 @@ layout 및 여러 view 컴포넌트들을 test하기 위해 만든 앱
 activity간의 상호작용을 확인하고, intent를 시험하고자 한 앱
 
 ### implicitintentexam
-intent에서 암시적 인탠트 
+intent에서 암시적 인탠트
+
+### webviewexam
+webview 사용
+
+### broadcastrecieverexam
+브로드캐스트 사용
+
+### countdownexam
+AsyncTask Practice2(Count 1->10)
+
+### cursoradapterexam
+어뎁터 객체 사용
+
+### databaseexam
+SQLite Database Practice (Memo App)
+
+### fragmentexam
+Fragment Practice
+
+### loginexam
+loginexam is Simple pratice app to use Shared Preference
+
+### lifecycleexam
+lifecycleexam is Simple pratice app to understand lifecycle
+
+### menuexam
+to study menu bar
+
+### packagemanagerexam
+packagemanagerexam is Simple pratice app2 to use Shared Preference
+
+### serviceexam	
+Service Component Practice(Start Service)
+
+### threadexam
+AsyncTask Practice
